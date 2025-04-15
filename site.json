@@ -1,6 +1,6 @@
 {
-  "baseUrl": "",
-  "titlePrefix": "",
+  "baseUrl": "/md-1dev-1",
+  "titlePrefix": "mb-dev-1",
   "titleSuffix": "",
   "ignore": [
     "_markbind/layouts/*",
@@ -22,6 +22,7 @@
       "glob": ["**/index.md", "**/*.md"]
     }
   ],
+  "title": "Home",
   "deploy": {
     "message": "Site Update."
   }

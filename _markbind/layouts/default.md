@@ -4,7 +4,7 @@
 
 <header sticky>
   <navbar type="dark">
-    <a slot="brand" href="{{baseUrl}}/index.html" title="Home" class="navbar-brand">Your Logo</a>
+    <a slot="brand" href="{{baseUrl}}/index.html" title="Home" class="navbar-brand">MarkBind Developer Test Site</a>
     <li><a href="{{baseUrl}}/contents/topic1.html" class="nav-link">Topic 1</a></li>
     <li><a href="{{baseUrl}}/contents/topic2.html" class="nav-link">Topic 2</a></li>
     <dropdown header="Topic 3" class="nav-link">
@@ -26,8 +26,8 @@
     </div>
     <div class="nav-component slim-scroll">
       <site-nav>
-* [Home :house:]({{ baseUrl }}/index.html)
-* [Topic 1]({{baseUrl}}/contents/topic1.html)
+* [My Test Playground :computer:]({{ baseUrl }}/index.html)
+* [주우재 1]({{baseUrl}}/contents/topic1.html)
 * [Topic 2]({{baseUrl}}/contents/topic2.html)
 * Topic 3 :expanded:
   * [Topic 3a]({{baseUrl}}/contents/topic3a.html)
